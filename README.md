@@ -145,3 +145,6 @@ if sudden_changes:
 
 print("\n=== Кінець аналізу ===")
 ```
+## 4. Приклади тестових варіантів для перевірки роботи завдання
+Тест 1: Успішна робота
+<img width="1126" height="635" alt="image" src="https://github.com/user-attachments/assets/a4319593-5737-439d-98a9-a4bf9df1c42b" />
