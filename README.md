@@ -50,6 +50,7 @@ graph TD
     N --> O([Кінець])
 ```
 ## 3. Код програми
+```python
 import sys
 
 print("=== Аналіз температурних показів за день ===")
@@ -143,3 +144,4 @@ if sudden_changes:
         print(f"  між {change[0]} та {change[1]}: зміна на {change[2]:.1f}°C")
 
 print("\n=== Кінець аналізу ===")
+```
